@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="text">
+        <item>Pakistan1</item>
+        <item>Pakistan2</item>
+        <item>Pakistan3</item>
+        <item>Pakistan4</item>
+        <item>Pakistan5</item>
+        <item>Pakistan6</item>
+        <item>Pakistan7</item>
+    </string-array>
+    <integer-array name="image">
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+    </integer-array>
+</resources>
